@@ -7,8 +7,9 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             int a = 10;
-
-            Console.WriteLine($"Привет {a}!");
+            Console.WriteLine("Бла бла бла");
+            Console.WriteLine("Что-то такое");
+            Console.WriteLine("Что-то такое");
         }
     }
 }
